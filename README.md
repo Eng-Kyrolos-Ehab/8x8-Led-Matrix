@@ -39,9 +39,9 @@
 --------
 -Once the code has been written and uploaded to the Arduino Uno, the LED matrix will display the message "Welcome to BUC" in a scrolling fashion, with each letter scrolling onto the matrix and then off again before the next letter appears.
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/106453561/235381702-1e2b0eaf-ad80-4e16-a310-018bea9cbfb1.gif)
 
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/106453561/235381802-cf0d4213-d8de-4a4e-895e-9b96306f1e7c.gif)
 
 
 
