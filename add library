@@ -1,0 +1,11 @@
+Download the .zip file below. 
+
+Open Arduino IDE and 
+           | go to Sketch, 
+              |   include library, 
+                 |      add .zip library and 
+                     |        open the .zip file that you have just downloaded. 
+
+
+
+Now the max matrix.h library should be installed.
