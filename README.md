@@ -41,6 +41,12 @@
 
 
 
+Powerpoint
+-----------
+https://docs.google.com/presentation/d/1Z2norqrIircopzBvYVL-cbMVM73TEXyg/edit?usp=sharing&ouid=115839085989449718740&rtpof=true&sd=true
+
+
+
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/106453561/235381802-cf0d4213-d8de-4a4e-895e-9b96306f1e7c.gif)
 
 
